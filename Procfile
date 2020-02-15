@@ -1,1 +1,1 @@
-web: bin/otus
+web: bin/jin
